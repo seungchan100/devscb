@@ -1,0 +1,6 @@
+#baseURL = 'http://example.org/'
+baseURL = "/"
+theme = "mainroad"
+languageCode = 'en-us'
+title = 'devscb blog'
+#https://github.com/Vimux/Mainroad
